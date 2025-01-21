@@ -179,6 +179,4 @@ CREATE TABLE task (
 - Add user-specific tasks (e.g., tasks belong to a specific user).
 - Implement email notifications for task deadlines.
 - Deploy the application to a cloud platform (e.g., AWS, Azure).
-
----
 ---
