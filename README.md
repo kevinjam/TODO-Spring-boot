@@ -1,7 +1,3 @@
-### README.md for To-Do Application
-
----
-
 # **To-Do Application**
 
 This is a RESTful API built using Spring Boot for managing a simple To-Do application. The API supports creating, reading, updating, and deleting tasks, with authentication and role-based access control.
