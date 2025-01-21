@@ -181,10 +181,4 @@ CREATE TABLE task (
 - Deploy the application to a cloud platform (e.g., AWS, Azure).
 
 ---
-
-## **License**
-This project is licensed under the MIT License.
-
 ---
-
-Feel free to customize the `README.md` further to fit your needs!
